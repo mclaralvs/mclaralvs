@@ -1,6 +1,6 @@
 # Hey there! :cloud:
 
-### I'm Maria Clara, and I'm getting into the tech world. :computer: :globe_with_meridians:
+### Talk to me. :computer: :globe_with_meridians:
 
 <p>
     <a href="https://www.linkedin.com/in/mclaralvs/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
