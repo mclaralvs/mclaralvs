@@ -1,6 +1,6 @@
 # Hey there! :cloud:
 
-### Talk to me. :computer: :globe_with_meridians:
+### :globe_with_meridians: Talk to me:
 
 <p>
     <a href="https://www.linkedin.com/in/mclaralvs/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 </p>
 
-### Softwares I've already worked with or I'm still using it:
+### :computer: Softwares I've already worked with:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
