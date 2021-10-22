@@ -24,6 +24,6 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclaralvs&theme=dark&hide_border=true&text_color=FFFFFF&icon_color=00000&hide=prs,issues&custom_title=Maria&nbsp;Clara's&nbsp;GitHub&nbsp;Stats&hide_rank=true&show_icons=true) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mclaralvs&theme=dark&hide_border=true&show_icons=true&layout=compact)](https://github.com/mclaralvs/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclaralvs&theme=dark&hide_border=true&text_color=FFFFFF&icon_color=00000&hide=prs,issues&custom_title=Maria&nbsp;Clara's&nbsp;GitHub&nbsp;Stats&hide_rank=true&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mclaralvs&theme=dark&hide_border=true&show_icons=true&layout=compact)](https://github.com/mclaralvs/github-readme-stats)
 
 </div>
