@@ -22,8 +22,8 @@
 
 <div>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mclaralvs&theme=jolly&show_icons=true&layout=compact)](https://github.com/mclaralvs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mclaralvs&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/mclaralvs/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclaralvs&theme=jolly&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclaralvs&theme=midnight-purple&show_icons=true)
     
 </div>
