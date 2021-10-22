@@ -17,3 +17,13 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 </p>
+
+<br>
+
+<div>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mclaralvs&theme=jolly&show_icons=true&layout=compact)](https://github.com/mclaralvs/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclaralvs&theme=jolly&show_icons=true)
+    
+</div>
