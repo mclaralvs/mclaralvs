@@ -5,19 +5,21 @@
 <h3>:globe_with_meridians: Talk to me:</h3>
 
 <p>
-    <a href="https://www.linkedin.com/in/mclaralvs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;
-    <a href="https://www.instagram.com/mclaralvs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+    <a href="https://www.linkedin.com/in/mclaralvs/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"></img></a>&nbsp;
+    <a href="https://www.instagram.com/mclaralvs/"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=4B70F1"></img></a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=4B70F1"></img>
 </p>
 
 <h3>:computer: Softwares I've already worked with:</h3>
 
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>&nbsp;
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=4B70F1"></img>&nbsp
+    <img src="https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=4B70F1"></img>&nbsp;    
+    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4B70F1"></img>&nbsp;
 </p>
 
 <br>
