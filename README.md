@@ -7,7 +7,8 @@
 <p>
     <a href="https://www.linkedin.com/in/mclaralvs/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"></img></a>&nbsp;
     <a href="https://www.instagram.com/mclaralvs/"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=4B70F1"></img></a>&nbsp;
-    <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=4B70F1"></img>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=mclaralvs@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=4B70F1"></img></a>&nbsp;
+    <a href="https://discord.com/users/691415356585279549"><img src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=4B70F1"></img></a>&nbsp;
 </p>
 
 <h3>:computer: Softwares I've already worked with:</h3>
