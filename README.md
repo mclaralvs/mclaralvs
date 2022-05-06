@@ -19,7 +19,11 @@
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=4B70F1"></img>&nbsp
     <img src="https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=4B70F1"></img>&nbsp;    
+    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=4B70F1"></img>&nbsp;    
+    <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4B70F1"></img>&nbsp;
 </p>
 
